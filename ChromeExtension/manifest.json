@@ -1,5 +1,5 @@
 {
-    "name": "Test Screenshot Extension",
+    "name": "Netflix Celeb Recognition",
     "version": "1.0",
     "description": "Facial recognition of current screen",
     "browser_action": {
